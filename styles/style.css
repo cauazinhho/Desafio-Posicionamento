@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+}
+
+.linha{
+    background-color: aqua;
+
+    display: flex;
+    justify-content: space-between;
+
+
+}

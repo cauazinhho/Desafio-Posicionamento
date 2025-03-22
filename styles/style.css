@@ -2,12 +2,51 @@ img{
     width: 200px;
 }
 
-.linha{
+.linha1{
     background-color: aqua;
 
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
+}
 
+.fantasma{
+    width: 130px;
+}
 
+.linha2{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.linha3{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.linha4{
+    background-color: aqua;
+    display: flex;
+    justify-content: end;
+    margin-bottom: 50px;
+}
+.linha5{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.amarelo{
+    background-color: yellow;
+    
+}
+.amarelo-novo{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
 }
